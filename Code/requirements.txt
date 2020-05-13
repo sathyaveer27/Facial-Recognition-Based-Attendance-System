@@ -1,0 +1,8 @@
+h5py
+numpy
+scikit-learn
+sklearn
+tensorflow-gpu==1.15
+keras
+opencv-python
+pyttsx3
